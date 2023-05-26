@@ -1,6 +1,6 @@
 # Usage
 
-Here are a list of commands that run the various agents I implemented
+Here are a list of commands that run the various agents I implemented. Run the following commands within the /pacman/ directory.
 
 ## In valueIterationAgent.py
 
